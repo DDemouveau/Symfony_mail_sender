@@ -1,0 +1,4 @@
+services:
+#    denis_test.example:
+#        class: Denis\TestBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

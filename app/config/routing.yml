@@ -1,0 +1,4 @@
+denis_test:
+    resource: "@DenisTestBundle/Resources/config/routing.yml"
+    prefix:   /
+

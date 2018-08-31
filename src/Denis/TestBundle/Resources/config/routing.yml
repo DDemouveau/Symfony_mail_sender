@@ -1,0 +1,7 @@
+# src/OC/PlatformBundle/Resources/config/routing.yml
+
+home_page:
+    path: /
+    defaults:
+        _controller: DenisTestBundle:Send:send
+        route: home
